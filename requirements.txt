@@ -1,0 +1,5 @@
+pandas
+easyocr
+requests
+tensorflow
+numpy
